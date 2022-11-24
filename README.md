@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Viktor
-- 👀 I’m interested in: computers, programming, science stuff.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate but I still don't know where and how.
+- 👀 I’m interested in: computers, programming, people. 
+-    And no there is no hiden message. Maybe.
+- 🌱 I’m currently learning...
+- 💞️ I’m looking forward to working together with good people
+-    on interesting projecs.
 - 📫 How to reach me viktor.nikolov069@gmail.com
 
 <!---
