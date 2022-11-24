@@ -3,7 +3,7 @@
      And no there is no hiden message 😉
 - 🌱 I’m currently learning... ... ...
 - 💞️ I’m looking forward to working together with good people
-     on interesting projecs.
+     on interesting projects.
 - 📫 How to reach me viktor.nikolov069@gmail.com
 
 <!---
