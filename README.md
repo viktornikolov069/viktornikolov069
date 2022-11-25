@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viktor
 - 👀 I’m interested in: computers, programming, people. 
-     And no there is no hiden message 😉
+     No hiden messages here 😉
 - 🌱 I’m currently learning... ... ...
 - 💞️ I’m looking forward to working together with good people
      on interesting projects.
